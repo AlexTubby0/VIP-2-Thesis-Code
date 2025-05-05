@@ -1,0 +1,1 @@
+These two code files can be slightly modified to run for the different data sets, as well as for linear vs. parabolic calibrations. Note that code for the May dataset needs to be slightly modified to only fit seven peaks, as nickel is not present.
